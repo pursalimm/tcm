@@ -1,0 +1,17 @@
+"BaselineCellType","Interval","Changed_FALSE","Changed_TRUE","Total"
+"Cytokines","TF0→TF1",1626,9992,11618
+"Cytokines","TF1→TF2",3387,3742,7129
+"Endothelial cells","TF0→TF1",7218,8459,15677
+"Endothelial cells","TF1→TF2",1135,17818,18953
+"Epithelial cells","TF0→TF1",27,1155,1182
+"Epithelial cells","TF1→TF2",1,1029,1030
+"Macrophages/Microglia cells","TF0→TF1",2346,7584,9930
+"Macrophages/Microglia cells","TF1→TF2",0,11831,11831
+"Mural cells","TF0→TF1",5303,4551,9854
+"Mural cells","TF1→TF2",83,8663,8746
+"Neurons","TF0→TF1",19,2407,2426
+"Neurons","TF1→TF2",19,2222,2241
+"OPCs","TF0→TF1",8060,6747,14807
+"OPCs","TF1→TF2",7223,8663,15886
+"Proliferation","TF0→TF1",0,326,326
+"Proliferation","TF1→TF2",0,4,4

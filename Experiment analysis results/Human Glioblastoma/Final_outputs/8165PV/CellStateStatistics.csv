@@ -1,0 +1,11 @@
+"CellType","PValue","FDR"
+"Fibroblasts",0,0
+"Endothelial cells",0,0
+"Neutrophils",0.358067307102947,0.404761904761905
+"Macrophages/Microglia cells",3.59881092728431e-241,7.19762185456861e-241
+"Astrocytes",0.108060972403223,0.14408129653763
+"Neurons",4.27419706919112e-26,6.8387153107058e-26
+"Mesenchymal cells",0,0
+"Proliferation",0.404761904761905,0.404761904761905
+"Epithelial cells",NA,NA
+"Oligodendrocytes",NA,NA

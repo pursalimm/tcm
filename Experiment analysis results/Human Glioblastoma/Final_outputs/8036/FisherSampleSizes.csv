@@ -1,0 +1,11 @@
+"BaselineCellType","Interval","Changed_FALSE","Changed_TRUE","Total"
+"Astrocytes","TF0→TF1",23569,623,24192
+"Astrocytes","TF1→TF2",29321,33589,62910
+"Endothelial cells","TF0→TF1",119,3362,3481
+"Endothelial cells","TF1→TF2",418,846,1264
+"Macrophages/Microglia cells","TF0→TF1",1398,36458,37856
+"Macrophages/Microglia cells","TF1→TF2",1058,579,1637
+"Neurons","TF0→TF1",7,10,17
+"Neurons","TF1→TF2",8,0,8
+"OPCs","TF0→TF1",0,274,274
+"OPCs","TF1→TF2",0,1,1

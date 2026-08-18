@@ -1,0 +1,37 @@
+"Method","CellType","Mean_PCC"
+"CARD","Astrocytes",0.591021933220875
+"CARD","Endothelial cells",0.754279836064798
+"CARD","Epithelial cells",0.266476485409693
+"CARD","Neutrophils",0.7026995518243
+"CARD","OPCs",0.564067043680267
+"CARD","Proliferation",0.841386699128467
+"CellTrek","Astrocytes",-0.0287178240109801
+"CellTrek","Endothelial cells",0.145548250451584
+"CellTrek","Epithelial cells",0.169951209903254
+"CellTrek","Neutrophils",0.376825159375706
+"CellTrek","OPCs",0.122090258464431
+"CellTrek","Proliferation",0.138337864481289
+"RCTD","Astrocytes",0.748672118771978
+"RCTD","Endothelial cells",0.863277612966441
+"RCTD","Epithelial cells",0.549095952717502
+"RCTD","Neutrophils",0.834323424395543
+"RCTD","OPCs",0.780150853408103
+"RCTD","Proliferation",0.891541717975844
+"SPOTlight","Astrocytes",0.550760338801992
+"SPOTlight","Endothelial cells",-0.34161759142489
+"SPOTlight","Epithelial cells",0.108557248583771
+"SPOTlight","Neutrophils",-0.462612047877072
+"SPOTlight","OPCs",0.429587592659468
+"SPOTlight","Proliferation",0.893884183862305
+"SpaOTsc","Astrocytes",0.0829511340764799
+"SpaOTsc","Endothelial cells",0.139863369295495
+"SpaOTsc","Epithelial cells",0.083530568275875
+"SpaOTsc","Neutrophils",0.109260229014816
+"SpaOTsc","OPCs",0.0623047942150366
+"SpaOTsc","Proliferation",0.0765417344523255
+"SpatialDecon","Astrocytes",0.734708782752139
+"SpatialDecon","Endothelial cells",0.869647067378121
+"SpatialDecon","Epithelial cells",0.562380603528614
+"SpatialDecon","Neutrophils",0.840488108878087
+"SpatialDecon","OPCs",0.705787111932146
+"SpatialDecon","Proliferation",0.899824337646298

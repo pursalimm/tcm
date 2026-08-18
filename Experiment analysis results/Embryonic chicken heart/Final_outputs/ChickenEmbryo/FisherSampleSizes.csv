@@ -1,0 +1,30 @@
+"BaselineCellType","Interval","Changed_FALSE","Changed_TRUE","Total"
+"Cardiomyocytes","TF0→TF1",25152,11308,36460
+"Cardiomyocytes","TF1→TF2",9931,16065,25996
+"Cardiomyocytes","TF2→TF3",3990,8898,12888
+"Endocardial cells","TF0→TF1",64,343,407
+"Endocardial cells","TF1→TF2",881,853,1734
+"Endocardial cells","TF2→TF3",8883,4978,13861
+"Epi-epithelial cells","TF0→TF1",19,4,23
+"Epi-epithelial cells","TF1→TF2",1337,285,1622
+"Epi-epithelial cells","TF2→TF3",908,4305,5213
+"Epi-mesenchymal cells","TF1→TF2",0,8,8
+"Erythrocytes","TF1→TF2",19,1,20
+"Erythrocytes","TF2→TF3",75,416,491
+"Fibroblast cells","TF0→TF1",2,68,70
+"Fibroblast cells","TF1→TF2",47,546,593
+"Fibroblast cells","TF2→TF3",175,743,918
+"Immature myocardial cells","TF0→TF1",9,24,33
+"Immature myocardial cells","TF1→TF2",548,5877,6425
+"Immature myocardial cells","TF2→TF3",41,2430,2471
+"Macrophages","TF2→TF3",0,116,116
+"Mural cells","TF0→TF1",0,2,2
+"Mural cells","TF1→TF2",7,1,8
+"Mural cells","TF2→TF3",322,192,514
+"TMSB4X high cells","TF0→TF1",8,1402,1410
+"TMSB4X high cells","TF1→TF2",2,155,157
+"TMSB4X high cells","TF2→TF3",7,353,360
+"Valve cells","TF0→TF1",709,166,875
+"Valve cells","TF1→TF2",1665,907,2572
+"Valve cells","TF2→TF3",1318,1130,2448
+"Vascular endothelial cells","TF1→TF2",0,145,145
